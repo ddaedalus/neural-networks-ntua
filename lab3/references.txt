@@ -1,0 +1,13 @@
+https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+https://datascience.stackexchange.com/questions/29719/how-to-set-batch-size-steps-per-epoch-and-validation-steps
+https://stackoverflow.com/questions/49922252/choosing-number-of-steps-per-epoch
+https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+https://scholar.smu.edu/cgi/viewcontent.cgi?article=1091&context=datasciencereview
+https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
+https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
+http://marubon-ds.blogspot.com/2017/09/vgg16-fine-tuning-model.html
+https://benchmarks.ai/cifar-100
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/18_TFRecords_Dataset_API.ipynb
+
