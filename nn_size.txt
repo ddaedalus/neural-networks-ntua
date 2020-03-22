@@ -1,3 +1,0 @@
-n_samples / (a*(n_in + n_out), a = 2, 10
-
-
