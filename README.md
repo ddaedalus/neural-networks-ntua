@@ -14,6 +14,6 @@ Supervised Learning working on UCI Machine Learning Repositories; Quality Assess
 Unsupervised Learning working on Carnegie Mellon Movie Summary Corpus using Self-organizing map (SOM) neural network and tf-idf numerical statistic for developing a movie recommender system based on their plot corpus.   
 
 :rocket: **Lab3**   
-Introduction to Deep Learning, TensorFlow2 and Keras; Working on a subset of [CIPHAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) dataset, that contains 12,000 sample images from 20 different categories. Convolutional Neural Networks from scatch and from transfer learning (VGG16, VGG19) were optimized in terms of test score accuracy, overall training time, total model params and memory usage.   
+Introduction to Deep Learning, TensorFlow2 and Keras; Working on a subset of [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) dataset, that contains 12,000 sample images from 20 different categories. Convolutional Neural Networks from scatch and from transfer learning (VGG16, VGG19) were optimized in terms of test score accuracy, overall training time, total model params and memory usage.   
 Accuracy score: 83%  
 
